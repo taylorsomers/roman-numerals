@@ -28,6 +28,7 @@
 
   | Program Behavior | Example Behavior | Example Output |
   |---|---|---|
+  | Program distinguishes numbers from non-numbers. | "1", "a", "." | "true", "false", "false" |
   | Program displays an error message when a non-integer is entered. |  |  |
   | Program displays an error if integer less than '1' is entered. |  |  |
   | Program displays an error if integer greater than "3999" is entered. |  |  |
