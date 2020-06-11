@@ -36,7 +36,7 @@
   | Program converts triple-digit entry of "100" to "C". |  |  |
   | Program converts triple-digit entry of "500" to "D". |  |  |
   | Program converts quadruple-digit entry of "1000" to "M". |  |  |
-  |  |  |  |
+  | Program displays an error if single-digit entry of "0" is entered. |  |  |
   |  |  |  |
   |  |  |  |
   |  |  |  |
