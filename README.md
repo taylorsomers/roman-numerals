@@ -26,7 +26,22 @@
 
 ## Specifications
 
-  * [List of behaviors with an input/output example for each.]
+  | Program Behavior | Example Behavior | Example Output |
+  |---|---|---|
+  | Program displays an error message when a non-integer is entered. |  |  |
+  | Program converts single-digit entry of "1" to "I". |  |  |
+  | Program converts single-digit entry of "5" to "V". |  |  |
+  | Program converts double-digit entry of "10" to "X". |  |  |
+  | Program converts double-digit entry of "50" to "L". |  |  |
+  | Program converts triple-digit entry of "100" to "C". |  |  |
+  | Program converts triple-digit entry of "500" to "D". |  |  |
+  | Program converts quadruple-digit entry of "1000" to "M". |  |  |
+  |  |  |  |
+  |  |  |  |
+  |  |  |  |
+  |  |  |  |
+  |  |  |  |
+  |  |  |  |
 
 ## Known Bugs
 
