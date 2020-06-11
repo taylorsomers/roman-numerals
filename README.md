@@ -29,6 +29,8 @@
   | Program Behavior | Example Behavior | Example Output |
   |---|---|---|
   | Program displays an error message when a non-integer is entered. |  |  |
+  | Program displays an error if integer less than '1' is entered. |  |  |
+  | Program displays an error if integer greater than "3999" is entered. |  |  |
   | Program converts single-digit entry of "1" to "I". |  |  |
   | Program converts single-digit entry of "5" to "V". |  |  |
   | Program converts double-digit entry of "10" to "X". |  |  |
@@ -36,8 +38,6 @@
   | Program converts triple-digit entry of "100" to "C". |  |  |
   | Program converts triple-digit entry of "500" to "D". |  |  |
   | Program converts quadruple-digit entry of "1000" to "M". |  |  |
-  | Program displays an error if single-digit entry of "0" is entered. |  |  |
-  |  |  |  |
   |  |  |  |
   |  |  |  |
   |  |  |  |
