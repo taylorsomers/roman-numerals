@@ -38,8 +38,8 @@
   | Program converts triple-digit entry of "100" to "C". |  |  |
   | Program converts triple-digit entry of "500" to "D". |  |  |
   | Program converts quadruple-digit entry of "1000" to "M". |  |  |
-  |  |  |  |
-  |  |  |  |
+  | Program displays Roman numerals the summation of which add up to the user-inputted number. |  |  |
+  | Program will *not* repeat numerals "I", "V", or "X" more than three times consecutively in output. |  |  |
   |  |  |  |
   |  |  |  |
 
